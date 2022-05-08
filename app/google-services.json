@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "309049608884",
+    "project_id": "emojiapp-a13b5",
+    "storage_bucket": "emojiapp-a13b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309049608884:android:60724945179f57c07225e1",
+        "android_client_info": {
+          "package_name": "technited.minds.emojiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309049608884-boo8lbkqn97pn21t4kf7tfmk00qiqoj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "technited.minds.emojiapp",
+            "certificate_hash": "8e53d39faba29e77fdec594711497e39d66535af"
+          }
+        },
+        {
+          "client_id": "309049608884-6vviks79o45smggnpca6gbfi3244gs7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2HF-Vopo0IpmJ3EXbn4Ps4IYIsJIAJyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309049608884-6vviks79o45smggnpca6gbfi3244gs7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
