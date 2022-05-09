@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">EmojiApp</string>
+    <string name="app_name">Emoji App</string>
+    <string name="web_client_id">309049608884-6vviks79o45smggnpca6gbfi3244gs7k.apps.googleusercontent.com</string>
 </resources>
